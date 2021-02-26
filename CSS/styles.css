@@ -4,8 +4,9 @@ body {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+    height: 240px;
+    width: 240px;
+    border: 10px solid #740e0eb0;
 }
 
 h1 {
